@@ -1,2 +1,2 @@
 # entra-conditional-access-architecture
-Enterprise Conditional Access architecture reference implementation and analysis toolkit for Microsoft Entra ID.
+Reference architecture and analysis toolkit for designing scalable Conditional Access deployments in Microsoft Entra ID.
